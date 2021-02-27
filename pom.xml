@@ -28,7 +28,7 @@
 
 	</properties>
        <!-- added nexus -->
-	<!-- added nexus -->
+
 	<dependencies>
 		
 		<dependency>
@@ -81,7 +81,6 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-		<!-- provided dependencies -->
 		<!-- provided dependencies -->
 
 		<dependency>
